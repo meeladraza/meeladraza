@@ -7,9 +7,6 @@ I'm Meelad Raza, a Full Stack Web Developer with 5 years of experience from Paki
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,mongodb,express,js,ts,redux,bootstrap,materialui,tailwindcss,netlify,css,html)
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milad-raza&show_icons=true&theme=radical)
-
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/meelad-raza/)
 
