@@ -179,5 +179,5 @@ const developer = {
 </div>
 
 <div align="center">
-  <sub>Built with ❤️ by Your Name</sub>
+  <sub>Built with ❤️ by Meelad Raza</sub>
 </div>
